@@ -82,21 +82,21 @@ const links = [
     text: "Olombelona",
     url: "https://olombelona.com/",
     description:
-      "La super StartUPUPUPUPUP de Dinh et Stan",
+      "La super Startup qui monte, qui monte...",
     color: "#E95800",
   },
   {
-    text: "Knupel Art",
+    text: "Knupel",
     url: "https://www.knupel.art/",
     description:
-      "De l'art en barre et en ligne de code",
+      "Quand Stan fait de l'art en barre et en ligne de code",
     color: "#1099A8",
   },
   {
-    text: "Le Coffee Shop qui déchire",
+    text: "Buna Bet",
     url: "https://bunabet.fr/",
     description:
-      "A Paname on boit du bon café chez Buna Bet",
+      "Le super Coffee-Shop de Lalou et Stan, À Paname on boit du bon café chez Buna Bet",
     color: "#BC027F",
   },
 ]
